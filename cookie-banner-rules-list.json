@@ -893,6 +893,99 @@
       "domain": "issuu.com",
       "cookies": {},
       "id": "019c0709-e9ef-4b0d-94bf-958d251a51b5"
+    },
+    {
+      "domain": "golem.de",
+      "cookies": {
+        "optIn": [
+          {
+            "name": "golem_consent20",
+            "value": "cmp|220101"
+          }
+        ]
+      },
+      "id": "33ae3a12-c2e6-4538-9a02-ecbdaf251518"
+    },
+    {
+      "domain": "spiegel.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "590a98cf-9ebf-42b1-a62f-e04834af8eff"
+    },
+    {
+      "domain": "zeit.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "55e4343f-d142-4b26-86b0-a7178cd158e6"
+    },
+    {
+      "domain": "n-tv.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "eac3c3af-86da-4944-bb16-1355845eb99a"
+    },
+    {
+      "domain": "tagesspiegel.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "acbd0313-31aa-405e-b205-94498cdc9f72"
+    },
+    {
+      "domain": "faz.net",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "e4c0512c-2fbf-4841-b659-c9530164bacc"
+    },
+    {
+      "domain": "zdf.de",
+      "click": {
+        "optIn": "#onetrust-accept-btn-handler",
+        "optOut": ".ot-pc-refuse-all-handler",
+        "presence": "#onetrust-banner-sdk"
+      },
+      "id": "e9bf0d9c-d744-430c-8887-7fb473858fda"
+    },
+    {
+      "domain": "finanzen.net",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "6fb32bf8-71f7-43ed-b4c4-a8a62827d4e3"
+    },
+    {
+      "domain": "heise.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "47173fdf-3ab6-4940-bb2b-71e4913d17af"
+    },
+    {
+      "domain": "t-online.de",
+      "click": {
+        "optIn": ".sp_choice_type_11",
+        "presence": ".message-container >  #notice",
+        "skipPresenceVisibilityCheck": true
+      },
+      "id": "412d88a6-4452-4aac-978e-8cc015f1c81c"
     }
   ]
 }
